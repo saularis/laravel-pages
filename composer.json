@@ -1,5 +1,5 @@
 {
-    "name": "dmyers/laravel-pages",
+    "name": "userdeck/laravel-pages",
     "description": "A simple static pages package for Laravel.",
     "keywords": ["laravel", "pages", "static pages"],
     "license": "MIT",
