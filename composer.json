@@ -1,5 +1,5 @@
 {
-    "name": "userdeck/laravel-pages",
+    "name": "saularis/laravel-pages",
     "description": "A simple static pages package for Laravel.",
     "keywords": ["laravel", "pages", "static pages"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Derek Myers",
             "email": "arcticpro@gmail.com"
+        },
+        {
+            "name": "Abdulla Malik",
+            "email": "hi@abdulla.dev"
         }
     ],
     "require": {
